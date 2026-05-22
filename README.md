@@ -4,13 +4,6 @@ Browser port of **Blood** using [NBlood](https://github.com/NBlood/NBlood) (Emsc
 
 **Live demo:** https://retrogamescenter.ru/ports/nbloodweb/run.html
 
-## Features
-
-- Play in the browser over HTTP (WebGL)
-- Splash screen + **PLAY**, resource loading bar for `nblood.data`
-- Saves in **IndexedDB** (`web/saves.js`)
-- `?speed=0.22` — slows timers (menus / intro)
-
 ## Build
 
 1. Put your Blood files in [`gamefiles/`](gamefiles/README.md) (not committed to Git).
